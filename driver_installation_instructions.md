@@ -1,4 +1,4 @@
-### Installation
+### Installation and testing
 
 1. In a terminal run: `sudo apt-get install ros-humble-septentrio-gnss-driver`
 2. Once installed the driver can be launched by lanching the launch file: **rover.launch.py**: ros2 launch septentrio_gnss_driver rover.launch.py. This should launch the GPS in this terminal window.
